@@ -161,6 +161,24 @@ footer {
     background-color: #f8f8f8;
 }
 
-p.copyright {
+/*p.copyright {
     margin: 15px 0 0;
+}*/
+
+
+/* CSS Added to theme */
+.img-wrapper{
+    max-width: 370px;
+}
+.img-wrapper img{
+    margin-right: 2em;
+    margin-bottom: 2em;
+     box-shadow: 10px 10px 5px #ccc;
+}
+.thumb-icon {
+    font-size: 12em;
+    color: #222;
+}
+#contact #foxyform_embed_link_601186{
+    display: none !important;
 }
